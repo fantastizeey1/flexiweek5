@@ -15,7 +15,7 @@ A **Countdown Timer** app built with React to demonstrate the use of React hooks
 
 ## Demo
 
-![Demo Screenshot](/flexiweek5/public/Screenshot.png)
+![Demo Screenshot](https://github.com/fantastizeey1/flexiweek5/blob/main/public/Screenshot.png)
 
 You can set a countdown in seconds, and the timer will start automatically. There's also an option to reset the timer to the original input.
 
