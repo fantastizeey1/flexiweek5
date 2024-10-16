@@ -76,7 +76,8 @@ Enter the countdown time (in seconds) in the input field.
 The timer will start automatically and display the remaining time.
 Use the "Reset" button to start over with the original time you set.
 Project Structure
-bash
+
+```bash
 Copy code
 ├── public
 │ └── index.html
@@ -89,7 +90,10 @@ Copy code
 ├── package.json
 ├── tailwind.config.js # Tailwind configuration file
 └── README.md # You're here!
-Styling
+```
+
+### Styling
+
 The app is styled using Tailwind CSS, which provides utility classes for rapid UI development. The design incorporates:
 
 Gradient Background: A colorful gradient background from blue to purple to pink.
